@@ -1,9 +1,8 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "mr-gift-app/dist",
-  "installCommand": "npm install",
+  "buildCommand": "cd mr-gift-frontend && npm run build",
+  "outputDirectory": "mr-gift-frontend/dist",
+  "installCommand": "cd mr-gift-frontend && npm install", 
   "framework": "vite",
-  "rootDirectory": "frontend",
   "rewrites": [
     {
       "source": "/(.*)",
