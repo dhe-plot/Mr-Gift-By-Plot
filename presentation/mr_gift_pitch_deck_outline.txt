@@ -1,0 +1,96 @@
+Slide 1: Introduction
+- Title: Introducing Mr. Gift: Your Ultimate Gift Ordering App
+- Welcome and introduction
+- Overview of the app's purpose and benefits
+
+Slide 2: The Gift-Giving Dilemma
+- Challenges in finding the perfect gift for weddings and birthdays
+- Time-consuming, overwhelming, uncertainty
+- Need for a solution
+
+Slide 3: Meet Mr. Gift
+- Innovative solution to the gift-giving dilemma
+- AI-powered, user-friendly, personalized recommendations
+
+Slide 4: Key Features of Mr. Gift
+- User registration and personalized profiles
+- Extensive gift catalogue for weddings and birthdays
+- AI-powered recommendation system
+- Secure payment integration
+- Order tracking and delivery updates
+
+Slide 5: How Mr. Gift Works
+- Step-by-step user journey:
+  1. Registration and profile creation
+  2. Browse and select gifts
+  3. AI-driven recommendations
+  4. Secure payment
+  5. Order tracking
+
+Slide 6: AI Recommendation System
+- How AI analyzes preferences, occasions, and history
+- Examples of personalized recommendations
+
+Slide 7: Market Opportunity
+- Market size and trends
+- Demand for convenience and personalization
+
+Slide 8: Revenue Model
+- Commission on sales
+- Premium features/subscription
+- Advertising and promotions
+- Revenue growth projections
+
+Slide 9: Marketing and Growth Strategy
+- Digital marketing, social media, influencer partnerships
+- Event planning partnerships
+- Referral program
+- User feedback and continuous improvement
+
+Slide 10: Competitive Advantage
+- AI recommendation system
+- User-friendly interface
+- Convenience and time-saving
+- Personalized experience
+
+Slide 11: Budget
+- App development (front-end, back-end, QA, PM)
+- Hosting and infrastructure
+- Third-party API integration (AI, payment)
+- Marketing and user acquisition
+- Ongoing maintenance and support
+
+Slide 12: Investment Opportunity
+- Investment required and equity offered
+- ROI potential
+
+Slide 13: Conclusion and Contact
+- Recap key points and benefits
+- Call to action for investors
+- Contact information
+
+Slide 14: Q&A
+- Open for questions 
+
+
+
+BACKEND cd "C:\Users\user1\Desktop\MR GIFT\backend"
+python app.py
+
+cd "C:\Users\user1\Desktop\MR GIFT\mr-gift-app"
+npm install         # (only needed the first time)
+npm run dev
+
+
+
+FRONTEND cd "C:\Users\user1\Desktop\MR GIFT\mr-gift-app"
+
+cd "C:\Users\user1\Desktop\MR GIFT\mr-gift-app"
+
+npm install
+
+npm run dev
+
+Supabase auth.
+
+Cursor alternative: trae ai
