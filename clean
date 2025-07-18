@@ -1,0 +1,36 @@
+# MR GIFT - Gift Giving Platform
+
+A modern gift-giving platform with React frontend and Flask backend.
+
+## Project Structure
+```
+mr-gift-clean/
+├── frontend/          # React + Vite app
+├── backend/           # Flask API
+└── README.md
+```
+
+## Quick Start
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend  
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+
+## Deployment
+- Frontend: Vercel (auto-deployed)
+- Backend: Railway/Render
+
+## Environment Variables
+Copy `.env.example` files and add your keys:
+- Clerk: Authentication
+- Stripe: Payments
