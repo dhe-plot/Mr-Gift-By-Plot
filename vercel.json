@@ -1,5 +1,12 @@
 {
-  "buildCommand": "cd mr-gift-app && npm run build",
-  "outputDirectory": "mr-gift-app/dist",
-  "installCommand": "cd mr-gift-app && npm install"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
